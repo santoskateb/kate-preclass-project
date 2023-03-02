@@ -13,4 +13,4 @@ def find_name(age_value)
   end
 end
 
-print find_name(23)
+p find_name(23)
