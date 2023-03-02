@@ -10,5 +10,5 @@ def fullname(first_middle_last)
   return my_name
 end
 
-my_name = { first_name: 'Kathleen', middle_name: 'B', last_name: 'Santos' }
+my_name = { first_name: 'Kathleen ', middle_name: 'B ', last_name: 'Santos' }
 p fullname(my_name)
